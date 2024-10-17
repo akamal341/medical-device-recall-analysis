@@ -1,0 +1,101 @@
+id,classification,code,description,distributed_to,implanted,name,number,quantity_in_commerce,risk_class,slug,country,manufacturer_id,created_at,updated_at
+1,,,IVD Other,,,Cell-Dyn Emerald Cleanser,,,,tur-cell-dyn-emerald-cleanser,TUR,1,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+2,,,Class IIB,,,"TECNIS Monofocal 1-piece, TECNIS 1-Piece IOL with the TECNIS iTec Preloaded Delivery System,  SENSAR Acrylic Monofocal TECNIS Multifocal 1-piece, TECNIS Symfony Extended Range of Vision Foldable Acrylic 1-Piece",,,,tur-tecnis-monofocal-1-piece-tecnis-1-piece-iol-with-the-tecnis-itec-preloaded-delivery-system,TUR,2,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+3,,,Class IIA,,,Centurion FMS Package for Centurion Vision System,,,,tur-centurion-fms-package-for-centurion-vision-system,TUR,3,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+4,,,Class IIB,,,Focusforce intraocular foldable lenses,,,,tur-focusforce-intraocular-foldable-lenses,TUR,4,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+5,,,IVD Other,,,Cholesterol HDL Direct,,,,tur-cholesterol-hdl-direct,TUR,5,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+6,,,IVD Other,,,Blood Glucose Test Strip,,,,tur-blood-glucose-test-strip,TUR,6,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+7,,,Class IIA,,,Super Arrow-Flex(R) Percutaneous Sheath Introducer Set,,,,tur-super-arrow-flex-r-percutaneous-sheath-introducer-set,TUR,7,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+8,,,Class III,,,Catheter introducer,,,,tur-catheter-introducer,TUR,7,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+9,,,Class IIA,,,22g Bi-Manual Aspiration Pull Handle 0.38mm Port,,,,tur-22g-bi-manual-aspiration-pull-handle-0-38mm-port,TUR,8,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+10,,,Class III,,,Spinocath,,,,tur-spinocath,TUR,9,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+11,,,,,,Access CEA,,,,tur-access-cea,TUR,10,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+12,,,IVD Other,,,CD 22 (S-HCL-1) APC,,,,tur-cd-22-s-hcl-1-apc,TUR,11,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+13,,,IVD Other,,,FMC7 FITC,,,,tur-fmc7-fitc,TUR,12,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+14,,,IVD Other,,,BD Vacutainer® Plastic SST ™ II Advance Plus Blood Collection Tube,,,,tur-bd-vacutainer-plastic-sst-ii-advance-plus-blood-collection-tube,TUR,13,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+15,,,IVD A 2-List B,,,VIDAS TOXO IgM,,,,tur-vidas-toxo-igm,TUR,14,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+16,Immunology and Microbiology Devices,,IVD Other,,,Etest PTc PIPERACILLIN/TAZOBACTAM (4mg/ml),,,,tur-immunology-and-microbiology-devices-etest-ptc-piperacillin-tazobactam-4mg-ml,TUR,15,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+17,Immunology and Microbiology Devices,,IVD Other,,,Etest PIP/TAZO/CON-4 PTC 0.016-256 µg/ml,,,,tur-immunology-and-microbiology-devices-etest-pip-tazo-con-4-ptc-0-016-256-g-ml,TUR,15,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+18,,,IVD Other,,,THIOGLYCOLATE BROTH+RESAZURIN,,,,tur-thioglycolate-broth-resazurin,TUR,16,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+19,,,IVD Other,,,M. HINTON 2 SHEEP BLOOD 90 20PL,,,,tur-m-hinton-2-sheep-blood-90-20pl,TUR,14,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+20,,,Class IIB,,,ACDA-A (Anticoagulant Citrate Dextrose Solution),,,,tur-acda-a-anticoagulant-citrate-dextrose-solution,TUR,17,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+21,,,Class IIB,,,Sports Medicine and Trauma Products,,,,tur-sports-medicine-and-trauma-products,TUR,18,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+22,,,Class III,,,"Vascular Guide Catheter, single-use",,,,tur-vascular-guide-catheter-single-use,TUR,19,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+23,,,Class III,,,Lotus Valve System,,,,tur-lotus-valve-system,TUR,20,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+24,,,Class III,,,Codman Microcoil Delivery System and Separation Control Boxes,,,,tur-codman-microcoil-delivery-system-and-separation-control-boxes,TUR,21,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+25,,,Class IIA,,,"Check-Flo® Hemostasis Unit, Flexor® Radial Access Kits, TriForce ™ Peripheral Access Set, Check-Flo® Introducer Hausdorf-Lock Atrial",,,,tur-check-flo-hemostasis-unit-flexor-radial-access-kits-triforce-peripheral-access-set,TUR,22,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+26,,,Class IIB,,,Smart Flex Vascular Stent System,,,,tur-smart-flex-vascular-stent-system,TUR,23,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+27,,,Class III,,,Cordis Precise Pro RX Nitinol Stent System,,,,tur-cordis-precise-pro-rx-nitinol-stent-system,TUR,24,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+28,,,Class IIB,,,Emprint Percutaneous Antenna Thermosphere Tech,,,,tur-emprint-percutaneous-antenna-thermosphere-tech,TUR,25,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+29,,,Class IIA,,,Endo Peanut Automatic Suture Blunt Dissector 5mm,,,,tur-endo-peanut-automatic-suture-blunt-dissector-5mm,TUR,26,2022-08-04 08:28:00 UTC,2022-08-04 08:28:00 UTC
+30,,,Class III,,,METS Modular Tumour System,,,,tur-mets-modular-tumour-system,TUR,58,2022-08-04 08:28:00 UTC,2022-08-04 08:28:01 UTC
+31,,,Class III,,,MobiCath Bi-Directional Guiding Sheath,,,,tur-mobicath-bi-directional-guiding-sheath,TUR,28,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+32,,,IVD Other,,,HemoCue HbA1c 501,,,,tur-hemocue-hba1c-501,TUR,29,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+33,,,Class IIA,,,IBC Aortic Punch,,,,tur-ibc-aortic-punch,TUR,30,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+34,,,Class I - other,,,Endoscopic Suction Tube,,,,tur-endoscopic-suction-tube,TUR,31,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+35,,,IVD Other,,,iChem Velocity Automated Urine Chemistry System,,,,tur-ichem-velocity-automated-urine-chemistry-system,TUR,32,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+36,,,Class III,,,Ethicon Physiomesh Flexible Composite Mesh,,,,tur-ethicon-physiomesh-flexible-composite-mesh,TUR,33,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+37,,,Class IIB,,,Skintact ECG Electrode DF31L,,,,tur-skintact-ecg-electrode-df31l,TUR,34,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+38,,,Class III,,,Perceval Sutureless Heart Valve,,,,tur-perceval-sutureless-heart-valve,TUR,35,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+39,,,AIMDD,,,SONNET Mini Battery Slot Cable,,,,tur-sonnet-mini-battery-slot-cable,TUR,36,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+40,,,Class IIB,,,Arctic Gel Pad,,,,tur-arctic-gel-pad,TUR,37,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+41,,,Class III,,,Euphora Quick Change Balloon Dilation Catheters,,,,tur-euphora-quick-change-balloon-dilation-catheters,TUR,38,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+42,,,AIMDD,,,DBS Lead Kit for Deep Brain Stimulation,,,,tur-dbs-lead-kit-for-deep-brain-stimulation,TUR,38,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+43,,,AIMDD,,,Temporary Transvenous Pacing Lead,,,,tur-temporary-transvenous-pacing-lead,TUR,39,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+44,,,Class I - sterile,,,Metalline Wound Dressings,,,,tur-metalline-wound-dressings,TUR,39,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+45,,,AIMDD,,,SynchroMed Implantable Infusion Pump,,,,tur-synchromed-implantable-infusion-pump,TUR,39,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+46,,,Class III,,,Endurant / Endurant II Forked Stent Graft Systems,,,,tur-endurant-endurant-ii-forked-stent-graft-systems,TUR,39,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+47,,,Class IIA,,,DLP 20-inch extension line adapters,,,,tur-dlp-20-inch-extension-line-adapters,TUR,39,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+48,Cardiovascular Devices,,Class III,,,"Pipeline Embolization Device, Alligator Retrieval Device, Xcelerator Hydrophilic Guide Wire, UltraFlow HPC Microcatheter, Marathon Microcatheter",,,,tur-cardiovascular-devices-pipeline-embolization-device-alligator-retrieval-device-xcelerator-hydrophilic-guide-wire,TUR,40,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+49,,,Class III,,,PHIL Non-Adhesive Fluid System,,,,tur-phil-non-adhesive-fluid-system,TUR,41,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+50,,,Class IIB,,,Large Qwix Position Screws,,,,tur-large-qwix-position-screws,TUR,42,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+51,Anesthesiology Devices,,Class I - other,,,Capnostream 20 and Capnostream 20p Patient Monitor Battery Kit,,,,tur-anesthesiology-devices-capnostream-20-and-capnostream-20p-patient-monitor-battery-kit,TUR,43,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+52,,,Class III,,,Oscor Adelante Breezeway,,,,tur-oscor-adelante-breezeway,TUR,44,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+53,,,Class IIB,,,IntelliVue Information Center PIIC iX,,,,tur-intellivue-information-center-piic-ix,TUR,45,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+54,,,Class IIB,,,Allura Xper FD and UNIQ X-ray Machines,,,,tur-allura-xper-fd-and-uniq-x-ray-machines,TUR,45,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+55,,,IVD Other,,,ABL 80 - SC80 100/30 Full + Lac; SC80 25/30 Full + Lac; SC80 200/30 Full + Lac; SC80 300/15 Full + Lac; SC80 300/30 Full + Lac; SC80 600/15 Full + Lac; 50/30 Full + Lac,,,,tur-abl-80-sc80-100-30-full-lac-sc80-25-30-full-lac-sc80-200-30-full-lac-sc80-300-15-full,TUR,46,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+56,,,IVD Other,,,Shandon Rapid chrome Kwik-Diff,,,,tur-shandon-rapid-chrome-kwik-diff,TUR,47,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+57,,,IVD Other,,,Sekisui Diagnostics Acetaminophen L3K,,,,tur-sekisui-diagnostics-acetaminophen-l3k,TUR,48,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+58,,,Class III,,,VIA Microcatheter,,,,tur-via-microcatheter,TUR,49,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+59,,,IVD Other,,,Versant Deep Well Plate,,,,tur-versant-deep-well-plate,TUR,50,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+60,,,IVD Other,,,ADVIA Chemistry Alkaline Phosphatase (AMP) m Reagent,,,,tur-advia-chemistry-alkaline-phosphatase-amp-m-reagent,TUR,51,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+61,,,IVD Other,,,Advia Chemistry Systems Hemoglobin A1c_3 Reagent,,,,tur-advia-chemistry-systems-hemoglobin-a1c_3-reagent,TUR,51,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+62,,,IVD Other,,,Dimension Sirolimus Flex Reagent Cartridge,,,,tur-dimension-sirolimus-flex-reagent-cartridge,TUR,52,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+63,,,IVD Other,,,"Triglyceride_2 Reagent, Concentrate",,,,tur-triglyceride_2-reagent-concentrate,TUR,53,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+64,,,IVD Other,,,N Latex ASL,,,,tur-n-latex-asl,TUR,53,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+65,,,IVD Other,,,Aptio Automation System,,,,tur-aptio-automation-system,TUR,54,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+66,,,Class IIB,,,Reflection Spherical Head Screw,,,,tur-reflection-spherical-head-screw,TUR,55,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+67,,,Class IIB,,,Tandem Bipolar Hip System,,,,tur-tandem-bipolar-hip-system,TUR,55,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+68,,,Class IIB,,,Renasys Transparent Film,,,,tur-renasys-transparent-film,TUR,55,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+69,,,Class III,,,Modular neck hip replacement,,,,tur-modular-neck-hip-replacement,TUR,55,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+70,,,Class IIA,,,Cardioplegia Transport system Oxygenator Perfusion Tube Set System,,,,tur-cardioplegia-transport-system-oxygenator-perfusion-tube-set-system,TUR,56,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+71,,,Class III,,,"Accoat Guide Wires (with long flexible tip), Accoat Guide Wire Bentson",,,,tur-accoat-guide-wires-with-long-flexible-tip-accoat-guide-wire-bentson,TUR,57,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+72,,,Class III,,,METS Femoral Plateau Plate,,,,tur-mets-femoral-plateau-plate,TUR,58,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+73,,,Class IIB,,,Pneumosure High Flow Insufflator,,,,tur-pneumosure-high-flow-insufflator,TUR,59,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+74,,,Class I - Other,,,Hand Tools - Sagittal Saw - Reciprocating Saw - Rotary Drill,,,,tur-hand-tools-sagittal-saw-reciprocating-saw-rotary-drill,TUR,60,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+75,,,Class III,,,Target Detachable Coils,,,,tur-target-detachable-coils,TUR,61,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+76,,,Class IIB,,,"Craniofacial bone screw, non-biobsorbable",,,,tur-craniofacial-bone-screw-non-biobsorbable,TUR,62,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+77,,,Class I - other,,,PFNA Spiral Blade for Impactor,,,,tur-pfna-spiral-blade-for-impactor,TUR,62,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+78,,,Class I - other,,,EZIO Manual Handle,,,,tur-ezio-manual-handle,TUR,63,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+79,,,Class IIA,,,"Radifocus® Introducer II, Radifocus® Introducer II M coat ",,,,tur-radifocus-introducer-ii-radifocus-introducer-ii-m-coat,TUR,64,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+80,,,IVD Other,,,OxoidTM Antimicrobial Susceptibility Test disc. Ticarcillin/Clavulanic Acid (TIM85) (CT0449),,,,tur-oxoidtm-antimicrobial-susceptibility-test-disc-ticarcillin-clavulanic-acid-tim85-ct0449,TUR,65,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+81,,,Class I - other,,,Depth Gauge,,,,tur-depth-gauge,TUR,66,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+82,,,Class I,,,"TruLight 3000, TruLight 5000, ILED3, ILED5, TruV Lighting System",,,,tur-trulight-3000-trulight-5000-iled3-iled5-truv-lighting-system,TUR,67,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+83,,,Unknown,,,"Glidescope GVL 3, GVL 4, GVL 5 and GlideScope AVL 3, AVL 4, AVL 5 Blade",,,,tur-glidescope-gvl-3-gvl-4-gvl-5-and-glidescope-avl-3-avl-4-avl-5-blade,TUR,68,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+84,Cardiovascular Devices,,Class III,,,Zenith Alpha Thoracic Endovascular Graft,,,,tur-cardiovascular-devices-zenith-alpha-thoracic-endovascular-graft,TUR,69,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+85,,,Class IIA,,,TracheoFlex Tracheostomy Tubes,,,,tur-tracheoflex-tracheostomy-tubes,TUR,70,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+86,,,Class III,,,LPS FLEX PRECOAT FEMORAL A-L,,,,tur-lps-flex-precoat-femoral-a-l,TUR,71,2022-08-04 08:28:01 UTC,2022-08-04 08:28:01 UTC
+87,,,Use the steam indicator tape to demonstrate that the packages taken to steam sterilization processes have been exposed to the process and to distinguish between processed and unprocessed packaging.,,,Steam Indicator Tape 1322,,,,col-steam-indicator-tape-1322,COL,72,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+88,,,"The SPOTON temperature control system is a direct thermometer that uses the zero-flow thermometry-heat technique to produce an accurate estimate of the temperature of deep tissue in a person. SPOTON is used to measure, monitor, and supply the body temperature trend of adult and pediatric patients.",,,Temperature Monitoring System,"Bair Hugger 36000 and SpotOn reference sensors,",,,col-temperature-monitoring-system,COL,73,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+89,,,"Adhesive to be used in the adhesion of orthodontic treatment systems such as brackets, retainers, bands.",,,Adhesives and Primers 3M UNITEK,"704-055, specific lots.",,,col-adhesives-and-primers-3m-unitek,COL,74,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+90,,,"The RANGER heating system is designed to heat blood, blood products and liquids. The heating system for blood and fluids RANGER is a device composed of a heating unit and a disposable equipment for the administration of blood and fluids intravenously (IV), the heating system RANGER is designed to heat blood, blood products and liquids and achieves a speed of MVA flow rate at 500ml per minute. Two disposable equipment for blood and fluids can be obtained: one for normal flow applications and one for high flow applications. These disposable equipment, designed for use in reusable dewaxing units, are sterilized, do not contain latex and are for single use only.",,,System for Fluid Heating RANGER 245,RANGER 245,,,col-system-for-fluid-heating-ranger-245,COL,75,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+91,,,DETERMINATION OF THE ANALYTICS RELATED TO SAMPLES FROM THE HUMAN ORGANISM.,,,ARCHITECT ACTIVE B12 (HOLOTRANSCOBALAMIN) REAGENT KIT,3P24-25,,,col-architect-active-b12-holotranscobalamin-reagent-kit,COL,76,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+92,,,,,,Architect Total PSA Reagent kit,,,,col-architect-total-psa-reagent-kit,COL,77,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+93,,,"CONTROL, CALIBRATION AND QUANTITATIVE DETERMINATION OF INSULIN, GLOBULINE IN THE BLOCKING OF SEXUAL HORMONES AND HORMONE PARATIROIDEA IN SERUM AND PLASMAHUMANS RESPECTIVELY.",,,ARCHITECT SHBG REAGENT KIT,,,,col-architect-shbg-reagent-kit,COL,78,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+94,,,IN VITRO AMPLIFICATION TEST FOR QUALITATIVE LADETECTION OF NUCLEIC ACIDS OF THE HUMAN IMMUNODEFICIENCY VIRUS DET 1 (HIV - 1) IN PLASMA AND YANGAN SECA HUMAN SAMPLES.,,,REALTIME  HIV-1  QUALITATIVE  AMPLIFICATION REAGENT  KIT,Reference 04N66-90 Lots: All.,,,col-realtime-hiv-1-qualitative-amplification-reagent-kit,COL,79,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+95,,,"IMMUNOANALYSIS CHIMIOLUMINISCENTE DE MICROPARTICULAS (CMIA) FOR THE QUALITATIVE DETECTION OF ANTIBODIES AGAINST THE ANTIGENOCORE OF HEPATITIS B VIRUS (ANTI HBC) HUMAN PLASMA AND PLASMA, INCLUDING POST-MORTEM RENEWED SAMPLES (WITHOUT CARDIAC TREATMENT).",,,ARCHITECT Anti- HBc II POSITIVE AND NEGATIVE CONTROL,"List Number (LN): 8L44-10, lot 54570LI00.",,,col-architect-anti-hbc-ii-positive-and-negative-control,COL,80,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+96,,,"It is a fully automated immunoassay system that allows random and continuous access, as well as priority processing and automatic re-analysis using chemoluminescent micro-particle immunoassay technology. CMIA technology is used to determine the presence of antigens, antibodies and analytes in samples. The scalable design of the ALINITY I allows one or more sample processing modules, in multiple configurations, with a system control module to physically join together to form a single workstation.",,,Alinity I Processing Module ABBOTT,"ALINITY CI-SERIES MODULE, all serials.",,,col-alinity-i-processing-module-abbott,COL,81,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+97,,,IMMUNOANALYSIS CHIMIOLUMINISCENT OF MICROPARTICLES (CMIA) FOR THE QUALITATIVE DETECTION OF ANTIBODIES IgM FRONT SToxoplasma gondii in SERUM AND HUMAN PLASMA.,,,ARCHITECT Toxo IgM,,,,col-architect-toxo-igm,COL,82,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+98,,,"DETERMINATION, CALIBRATION AND CONTROL OF THE TESTOSTERONE TEST IN SERUM AND PLASMAHUMAN",,,ARCHITECT 2ND GENERATION TESTOSTERONE REAGENT KIT,"Reference: 2P13-28, lot: 10458UP00",,,col-architect-2nd-generation-testosterone-reagent-kit,COL,83,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+99,,,DETERMINATION OF THE DIFFERENT ANALYTS RELATED TO SAMPLES FROM THE HUMAN ORGANIZATION.,,,ARCHITECT STAT High Sensitive Troponin-I,Ref: 3P25-26 || Lot: 56940UI00,,,col-architect-stat-high-sensitive-troponin-i,COL,84,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
+100,,,,,,Alinity I HBsAg calibrators,08P0801   Lot:3313FN00,,,col-alinity-i-hbsag-calibrators,COL,85,2022-08-04 08:28:02 UTC,2022-08-04 08:28:02 UTC
