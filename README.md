@@ -236,4 +236,4 @@ Dependencies for this project include:
 ### Contact
 
 For any questions or contributions, please contact:
-- **Asad Kamal** - [aakamal@umich.edu](mailto:aakamal@umich.edu)
+- **Asad Kamal** - aakamal {/@/} umich {/dot/} edu
