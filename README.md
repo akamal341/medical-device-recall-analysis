@@ -43,6 +43,8 @@ We leveraged publicly available datasets from the ICIJ's International Medical D
 #### Data Manipulation and Cleaning
 To preprocess the data from the IMDD dataset, Python was used within Jupyter notebooks to load CSV files and convert them into pandas DataFrames for further manipulation and analysis.
 
+![image](https://github.com/user-attachments/assets/82b770b1-318f-403b-8374-26f771d744dc)
+
 1. **Import CSVs**:
     ```python
     import pandas as pd
