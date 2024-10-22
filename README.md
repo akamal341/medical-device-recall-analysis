@@ -208,8 +208,8 @@ To replicate or build upon this analysis:
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/akamal341/project-portfolio.git
-    cd project-portfolio
+    git clone https://github.com/akamal341/medical-device-recall-analysis.git
+    cd medical-device-recall-analysis
     ```
 
 2. **Install Dependencies**:
